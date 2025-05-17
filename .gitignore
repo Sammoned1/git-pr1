@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript output
+*.tsbuildinfo
+
+# Temporary files
+temp/
+tmp/
+
+# Compiled Javascript files
+*.js
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.idea
+.vscode
